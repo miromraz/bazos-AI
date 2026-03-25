@@ -1,0 +1,6 @@
+httpx
+textual
+plotly
+pandas
+openai
+jinja2
