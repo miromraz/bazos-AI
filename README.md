@@ -30,3 +30,7 @@ OPENROUTER_API_KEY=sk-or-v1-xxxxxx
 - **httpx**: Asynchronous HTTP handling (Bazos JSON extraction)
 - **OpenAI / OpenRouter**: Autonomous intent parsing and evaluation pipeline
 - **Pandas / Plotly / Jinja2**: Rapid static data visualization rendering
+
+## License
+
+GPL-3.0-or-later. See [LICENSE](LICENSE).
